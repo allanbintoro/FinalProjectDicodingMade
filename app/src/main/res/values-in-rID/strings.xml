@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MovieCatalogue UI UX</string>
+    <string name="tab_movie">Film</string>
+    <string name="tab_tv_show">Acara TV</string>
+    <string name="tab_fav">Favorit</string>
+    <string name="movie_title">Judul Film</string>
+    <string name="movie_detail">Detail Film</string>
+    <string name="movie_poster">Poster Film</string>
+    <string name="movie_synopsis_empty">Maaf Sinopsis Film Ini Tidak Tersedia</string>
+    <string name="movie_vote_average">7.0</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="action_add_to_favorite">Tambah ke Favorit</string>
+    <string name="action_remove_favorite">Hapus dari Favorit</string>
+    <string name="msg_success_add_favorite">Sukses menambah film ke favorit</string>
+    <string name="msg_removed_from_favorite">Sukses menghapus film dari favorit</string>
+    <string name="msg_empty_fav_movie">Belum Ada Film yang kamu jadikan Favorit :( </string>
+    <string name="msg_empty_fav_tv">Belum Ada Acara Tv yang kamu jadikan Favorit :(</string>
+    <string name="settings">Pengaturan</string>
+    <string name="title_daily_reminder">Pengingat Harian</string>
+    <string name="title_release_reminder">Pengingat Rilis</string>
+    <string name="content_release_reminder">Rilis Hari Ini!</string>
+    <string name="msg_daily_reminder">Ada pemngumuman baru nih</string>
+    <string name="action_search">Cari</string>
+
+
+</resources>

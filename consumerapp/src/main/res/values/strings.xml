@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Consumerapp</string>
+    <string name="movie_image">Movie Image</string>
+
+
+    <string name="tab_tv_show">TV</string>
+    <string name="tab_movie">Movie</string>
+    <string name="no_fav">No Favorite Movie/Tv</string>
+</resources>
